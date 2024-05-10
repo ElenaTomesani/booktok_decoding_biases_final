@@ -79,11 +79,17 @@ Various cross-sections of the data were analyzed, including the race and gender 
 **<a name="results"></a>
 ## Results and Analysis
 <p>
+  
+Our investigation into the TikTok community of #BookTok begins with an overview of what this community looks like and who its members are, starting from a descriptive analysis of our two datasets, the main one (booktok.csv) and the one focusing on the authors (booktok_authors.csv). 
+
+Containing 381 scraped tiktoks, booktok.csv unfolds across 42 columns, some set up with Zeeschuimer (like "id" and "timestamp") and some by us (like "Is recommendation positive?" and "Is influencer white?). On the other hand, booktok_authors.csv presents the 353 that were mentioned/reviewed in the 381 tiktoks we analysed. The dataset contains information regarding race and gender of each author. 
+
+After the analysis of a dozen of the tiktoks, it was already clear that the authors mentioned in the #BookTok community were rather repetitive. In fact some of the authors got extensively more coverage than others. This is in line with the "virality" concept of social media. 
 
 <img width="762" alt="1" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/47e509c5-ef36-4517-a40f-03f838d70415">
 
 
-Colleen Hoover and Ana Huang seem to be the most frequently mentioned authors in the booktok community with 36 and 28 mentions respectively as the first three authors mentioned in a tiktok.
+Specifically, Colleen Hoover and Ana Huang seem to be the most frequently mentioned authors in the booktok community with 36 and 28 mentions respectively as the first three authors mentioned in a tiktok.
 
 <img width="377" alt="2" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/02e0f2b6-1b35-41f0-b33e-f623b7534783">
 
