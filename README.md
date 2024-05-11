@@ -144,7 +144,7 @@ We can perform a similar analysis to investigate racial bias on BookTok, the foc
 <img width="376" alt="10" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/e9f792e1-f7c3-4501-b3f6-1c152b6a7d91">
 
 
-<img width="390" alt="11" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/1a9e8abe-7710-4491-b40c-22277a2ae4bd">
+<img width="376" alt="10" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/1a9e8abe-7710-4491-b40c-22277a2ae4bd">
 
 (The "Can't Tell" section might be due to either the impossibility to differentiate an influencer's race or to the impossibility to see the influencer (e.g. videos without images of the influencer)). 
 
@@ -157,7 +157,7 @@ We can deepen our analysis by looking more closely at the racial composition of 
 <img width="338" alt="12" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/19873e8b-a8c2-4854-b94f-34df7c8f3b04">
 
 
-<img width="338" alt="13" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/f88bdced-e942-471f-97a9-30ac1fedafac">
+<img width="338" alt="12" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/f88bdced-e942-471f-97a9-30ac1fedafac">
 
 
 We observe a pretty consistent racial composition across male and female influencers. Value count of "Can't Tell" seems to be the influencing factor in non-white share differences between the two pie charts.
@@ -165,7 +165,7 @@ We observe a pretty consistent racial composition across male and female influen
 
 Doing the same for authors: 
 
-<img width="359" alt="14" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/06c671b9-fd80-4f7c-ae86-40371b5fe77d">
+<img width="348" alt="15" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/06c671b9-fd80-4f7c-ae86-40371b5fe77d">
 
 
 <img width="348" alt="15" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/97269ba3-fe71-43f5-adec-3e69402dd898">
@@ -179,10 +179,10 @@ Both for authors and influencers, irrespective of the gender, #BookTok appears t
 We are going to analyse if race plays a role in determining the attention and success that an influencer receives in the BookTok community. We are going to use the mean values of number of followers, likes and number of videos published by influencers categorising them by race.
 
 
-<img width="469" alt="16" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/e4990e6c-3f28-4f58-b8af-f8a5e7443a02">
+<img width="426" alt="18" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/e4990e6c-3f28-4f58-b8af-f8a5e7443a02">
 
 
-<img width="442" alt="17" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/fa686c79-2eaa-404f-99a3-7a5ca760c42a">
+<img width="426" alt="18" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/fa686c79-2eaa-404f-99a3-7a5ca760c42a">
 
 
 <img width="426" alt="18" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/f49cdce5-42bd-400b-ae23-87889a44805d">
@@ -196,14 +196,14 @@ We are intersted in understanding if the results we got are driven by huge outli
 <img width="465" alt="19" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/10195809-b1f6-4331-8e80-4cfc0da8ab25">
 
 
-<img width="468" alt="20" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/51f49a79-4128-4033-a3ec-4c4d6194c487">
+<img width="468" alt="19" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/51f49a79-4128-4033-a3ec-4c4d6194c487">
 
 
 
-<img width="468" alt="21" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/1bf289b4-6080-426c-a428-4b0d167d685e">
+<img width="468" alt="19" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/1bf289b4-6080-426c-a428-4b0d167d685e">
 
 
-<img width="468" alt="22" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/50c70c4c-8647-4196-832c-51591179e907">
+<img width="468" alt="19" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/50c70c4c-8647-4196-832c-51591179e907">
 
 
 
