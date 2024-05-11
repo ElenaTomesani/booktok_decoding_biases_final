@@ -133,7 +133,7 @@ Now we can dive into the gender and race dimension of booktok!
 <img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/32c76d48-e354-4b39-9688-04a72e8961ac">
 
 
-<img width="362" alt="9" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/4d4d2de8-6b4f-4d85-b81a-7c3892aebdd1">
+<img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/4d4d2de8-6b4f-4d85-b81a-7c3892aebdd1">
 
 The two pie charts above highlight how much the #BookTok community seems to be female-dominated both for the influencers and authors' sides. Female influencers take up an overwhelming 80.1% of the entirety of tiktoks taken in consideration. A similar percentage is reflected in the authors' category where "Non-male" authors amount at 80.2%. It is arguably more intersting to look at the male representation is both groups. Whilst for influencers they only reach 8.7%, male authors arrive at almost 20% of authors recommended on the platform.
 
@@ -141,10 +141,10 @@ The two pie charts above highlight how much the #BookTok community seems to be f
 We can perform a similar analysis to investigate racial bias on BookTok, the focus of our research.
 
 
-<img width="376" alt="10" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/e9f792e1-f7c3-4501-b3f6-1c152b6a7d91">
+<img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/e9f792e1-f7c3-4501-b3f6-1c152b6a7d91">
 
 
-<img width="376" alt="10" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/1a9e8abe-7710-4491-b40c-22277a2ae4bd">
+<img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/1a9e8abe-7710-4491-b40c-22277a2ae4bd">
 
 (The "Can't Tell" section might be due to either the impossibility to differentiate an influencer's race or to the impossibility to see the influencer (e.g. videos without images of the influencer)). 
 
@@ -154,10 +154,10 @@ The "white component" seems higher for authors than influencers (82.2% vs 71.3%)
 We can deepen our analysis by looking more closely at the racial composition of male and female influencers:
 
 
-<img width="338" alt="12" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/19873e8b-a8c2-4854-b94f-34df7c8f3b04">
+<img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/19873e8b-a8c2-4854-b94f-34df7c8f3b04">
 
 
-<img width="338" alt="12" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/f88bdced-e942-471f-97a9-30ac1fedafac">
+<img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/f88bdced-e942-471f-97a9-30ac1fedafac">
 
 
 We observe a pretty consistent racial composition across male and female influencers. Value count of "Can't Tell" seems to be the influencing factor in non-white share differences between the two pie charts.
@@ -165,10 +165,10 @@ We observe a pretty consistent racial composition across male and female influen
 
 Doing the same for authors: 
 
-<img width="348" alt="15" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/06c671b9-fd80-4f7c-ae86-40371b5fe77d">
+<img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/06c671b9-fd80-4f7c-ae86-40371b5fe77d">
 
 
-<img width="348" alt="15" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/97269ba3-fe71-43f5-adec-3e69402dd898">
+<img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/97269ba3-fe71-43f5-adec-3e69402dd898">
 
 
 Again, we notice consistent results for authors as well. 
